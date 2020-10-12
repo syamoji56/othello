@@ -1,0 +1,14 @@
+button {
+  color: aqua;
+  background-color: transparent;
+  border: 0em;
+}
+table {
+  border: 2em orange solid;
+}
+tr {
+  border: 2em blueviolet solid;
+}
+td {
+  border: 2em chartreuse solid;
+}
