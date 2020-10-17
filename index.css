@@ -1,14 +1,14 @@
 button {
-  color: aqua;
-  background-color: transparent;
+  background-color: rgb(0, 114, 25);
   border: 0em;
 }
 table {
-  border: 2em orange solid;
+    border-collapse: collapse;
+    background-color: black;
 }
-tr {
+/* tr {
   border: 2em blueviolet solid;
 }
 td {
   border: 2em chartreuse solid;
-}
+} */
